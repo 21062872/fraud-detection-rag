@@ -1,8 +1,0 @@
-missingno
-pyspark==3.5.1
-langchain
-openai==0.28
-faiss-gpu
-tiktoken
-langchain-community langchain-core
-chromadb
