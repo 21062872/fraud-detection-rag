@@ -1,8 +1,7 @@
 missingno
 pyspark==3.5.1
 langchain
-openai==0.28
+openai
 faiss-gpu
 tiktoken
-langchain-community langchain-core
 chromadb
