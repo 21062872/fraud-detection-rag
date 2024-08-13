@@ -1,3 +1,5 @@
+pandas
+numpy
 missingno
 pyspark==3.5.1
 langchain
@@ -5,3 +7,4 @@ openai
 faiss-gpu
 tiktoken
 chromadb
+transformers
