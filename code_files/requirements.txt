@@ -9,3 +9,4 @@ tiktoken
 chromadb
 transformers
 sentence-transformers
+umap-learn
