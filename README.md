@@ -7,14 +7,23 @@ All code related to data loading, pre-processing, EDA, Feature engineering, Trai
 
 Code Structure is as below
 * Environment Setup
-    - sdasdas
+    - Installing required libraries, verification of GPU and setting the environment to execute code is ensured in this section
 * Data Ingestion
+    - Loading data from external file to the dataframe
 * Data Pre-processing
+    - Shaping, cleansing the data before model training
 * Explorative Data Analysis (EDA)
+    - Visulize dataset with numerous plots to identify patterns, inter-relationships and any data distributions
 * Feature Engineering
+    - Creatng new features from raw features 
 * Random Forest Classifier Model
+    - In this section, multiple experiments are carried out. Random forest model with basic configuration, with customized and fine tuned model are compared and analysed. Also how Random Forest perform on raw dataset and oversampled dataset is also investigated.
 * Neural Network Model
-* Retrieval Augmented Generation 
+    - NN model with basic and customized settings are evaluated.
+* XGBoost
+    - Multiple experiments on XGBoost is carried out, specially how it behaves for raw dataset and for SMOTE oversampled dataset
+* Retrieval Augmented Generation
+    - In this section, multiple tests were considered. First tests were carried out to see how efficient the retriever model in detecting anomalies using euclidean and cossine distance matrix is evaluated. Same experiment is done with BERT and OPEN AI embeddings to identify the optimal embedding for the dataset structure. Then using similarity search a prototype model is created to showcase how RAG can be applied in fraud detection. Performance of similarity search and ranking on FAISS index/vector store is measured using variouse metrics.
 
 ## Files
 * Notebook : code_files/main.ipynb
