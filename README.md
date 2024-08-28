@@ -18,3 +18,6 @@ All code related to data loading, pre-processing, EDA, Feature engineering, Trai
 ### Prerequisites
 * Python 3.x
 * Relevant Python libraries as listed in [View Requirements](code_files/requirements.txt)
+
+### Special Notes
+* For the experiments involved with Open AI embeddings, add a authentic Open AI key to execute. I have excluded the key from code for security purposes.
