@@ -17,7 +17,7 @@ Code Structure is as below
 * Feature Engineering
     - Creatng new features from raw features 
 * Random Forest Classifier Model
-    - In this section, multiple experiments are carried out. Random forest model with basic configuration, with customized and fine tuned model are compared and analysed. Also how Random Forest perform on raw dataset and oversampled dataset is also investigated.
+    - In this section, multiple experiments were carried out. Random forest model with basic configuration, with customized and fine tuned model are compared and analysed. Also how Random Forest perform on raw dataset and oversampled dataset is also investigated.
 * Neural Network Model
     - NN model with basic and customized settings are evaluated.
 * XGBoost
