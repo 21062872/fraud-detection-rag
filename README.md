@@ -5,7 +5,7 @@
 This repository has one main notebook file [View the Notebook](code_files/main.ipynb)
 All code related to data loading, pre-processing, EDA, Feature engineering, Training and Testing is included in this. Code is structured in object oriented way using classes and functions to maintain a proper structure and reduce redundancy.
 
-Code Structure is as below
+<b>Code Structure is as below</b>
 * Environment Setup
     - Setting Up the Environment for Code Execution
 * Data Ingestion
