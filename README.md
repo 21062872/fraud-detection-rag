@@ -7,3 +7,9 @@ All code related to data loading, pre-processing, EDA, Feature engineering, Trai
 
 ## Files
 Notebook : code_files/main.ipynb
+Related libraries and modules : code_files/requirements.txt
+Dataset : data_files/dataset.csv
+Final Project Report : documents/Enhancing Fraud Detection by Ensemble Machine Learning and RAG by Tharinda Arachchi.docx
+Draft Project Report : documents/Final Project Report - 21062872.docx
+Logbook : documents/Project+Logbook+Sem+C+Data+Science+2023.docx
+Data Management Plan : documents/pdm_plan_v_1.1.docx
