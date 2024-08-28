@@ -19,7 +19,7 @@ Code Structure is as below
 * Random Forest Classifier Model
     - In this section, multiple experiments were carried out. Random forest model with basic configuration, with customized and fine tuned model are compared and analysed. Also how Random Forest perform on raw dataset and oversampled dataset is also investigated.
 * Neural Network Model
-    - NN model with basic and customized settings are evaluated.
+    - NN model with basic and customized settings are evaluated. Furthermore, how NN perform on raw and oversample dataset is also measured
 * XGBoost
     - Multiple experiments on XGBoost is carried out, specially how it behaves for raw dataset and for SMOTE oversampled dataset
 * Retrieval Augmented Generation
