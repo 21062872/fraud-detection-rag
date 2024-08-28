@@ -5,6 +5,17 @@
 This repository has one main notebook file [View the Notebook](code_files/main.ipynb)
 All code related to data loading, pre-processing, EDA, Feature engineering, Training and Testing is included in this. Code is structured in object oriented way using classes and functions to maintain a proper structure and reduce redundancy.
 
+Code Structure is as below
+* Environment Setup
+    - sdasdas
+* Data Ingestion
+* Data Pre-processing
+* Explorative Data Analysis (EDA)
+* Feature Engineering
+* Random Forest Classifier Model
+* Neural Network Model
+* Retrieval Augmented Generation 
+
 ## Files
 * Notebook : code_files/main.ipynb
 * Related libraries and modules : code_files/requirements.txt
